@@ -1,0 +1,39 @@
+{
+    "Happy": [
+        "drôle", "hilarant", "marrant",
+        "enfin", "ouf", "tranquille", "maintenant",
+        "fier", "satisfait", "accompli", "confiant", "impressionnant",
+        "content", "heureux", "ravi", "souriant", "léger", "détendu",
+        "génial", "incroyable", "trop bien", "super", "excellent",
+        "magnifique", "j’adore", "bien", "joyeux", "joyeuse"
+    ],
+
+    "Angry": [
+        "agaçant", "chiant", "pénible", "fatigant", "ça me saoule",
+        "énervé", "furieux", "hors", "abusé", "marre", "colère",
+        "fou", "laisse-moi", "arrête", "injuste", "pourquoi moi",
+        "ridicule", "pathétique", "nul", "minable"
+    ],
+
+    "Sad": [
+        "triste", "abattu", "déprimé", "mélancolique", "sombre",
+        "déçu", "frustré", "dommage", "mieux", "mal",
+        "seul", "isolé", "incompris", "vide", "abandonné",
+        "épuisé", "lassé", "vidé",
+        "dû", "seulement", "regrette", "faute"
+    ],
+
+    "Fear": [
+        "peur", "inquiet", "angoissé", "nerveux",
+        "tendu", "pression", "stresse", "flippe",
+        "panique", "c’est trop",
+        "doute", "sûr", "hésiter",
+        "fragile", "exposé", "faible"
+    ],
+
+    "Neutral": [
+        "tranquille", "posé", "serein", "apaisé",
+        "bof", "importe", "égal", "peut-être", "j’analyse", "réfléchis",
+        "intéressant", "pourquoi", "comment"
+    ]
+}
