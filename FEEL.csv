@@ -308,7 +308,7 @@ id;word;polarity;joy;fear;sadness;anger;surprise;disgust
 307;contagieux;negative;0;1;1;0;0;1
 308;conte;positive;1;0;0;0;0;0
 309;contemporain;positive;0;0;0;0;0;0
-310;content;positive;0;0;0;0;0;0
+310;content;positive;1;0;0;0;0;0
 311;contestable;negative;0;0;0;0;0;0
 312;conteur;positive;0;0;0;0;0;0
 313;contiguë;positive;0;0;0;0;0;0
